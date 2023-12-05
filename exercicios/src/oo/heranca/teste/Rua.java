@@ -14,20 +14,15 @@ public class Rua {
 
 		civic.acelerar();
 		civic.acelerar();
-		civic.freiar();
-		civic.freiar();
-		civic.freiar();
-		civic.freiar();
-		civic.freiar();
-		civic.freiar();
-		civic.freiar();
 		System.out.println("Velociadade do Civic: " + civic.velocidadeAtual);
-		
+	
 		System.out.println("Velociadade do Ferrari: " + ferrari.velocidadeAtual);
 		
+		ferrari.ligarTurbo();
 		ferrari.acelerar();
 		ferrari.acelerar();
 		ferrari.acelerar();
+		
 		System.out.println("Velociadade do Ferrari: " + ferrari.velocidadeAtual);
 		
 	}
