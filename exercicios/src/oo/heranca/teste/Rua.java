@@ -10,7 +10,7 @@ public class Rua {
 		Civic civic = new Civic();
 		Ferrari ferrari = new Ferrari(400);
 		
-		System.out.println("Velociadade do Civic: " + civic.velocidadeAtual);
+		System.out.println("Velociadade do Cdsivic: " + civic.velocidadeAtual);
 
 		civic.acelerar();
 		civic.acelerar();
