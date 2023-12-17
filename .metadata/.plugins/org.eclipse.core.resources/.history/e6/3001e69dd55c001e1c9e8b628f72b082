@@ -1,0 +1,26 @@
+package arrays;
+
+import java.util.Scanner;
+
+public class Matriz {
+	public static void main(String[] args) {
+		
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.print("Quantos alunos? ");
+		int qtdeAlunos = entrada.nextInt();
+		
+		System.out.print("Quantos notas? ");
+		int qtdeNotas = entrada.nextInt();
+		
+		double[] [] notasDaTurma = new double[qtdeAlunos] [qtdeNotas];
+		
+		for (int i = 0; i < notasDaTurma.length; i++) {
+			for (int j = 0; j < notasDaTurma.[i]; j++) {
+				
+			}
+		}
+		
+		entrada.close();
+	}
+}

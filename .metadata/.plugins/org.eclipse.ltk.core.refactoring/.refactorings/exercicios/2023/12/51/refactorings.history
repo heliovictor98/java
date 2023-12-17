@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;streams.CriandoStrams&apos; to &apos;CriandoStreams&apos;&#x0D;&#x0A;- Original project: &apos;exercicios&apos;&#x0D;&#x0A;- Original element: &apos;streams.CriandoStrams&apos;&#x0D;&#x0A;- Renamed element: &apos;streams.CriandoStreams&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CriandoStrams&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;streams{CriandoStrams.java[CriandoStrams" matchStrategy="1" name="CriandoStreams" qualified="false" references="true" similarDeclarations="false" stamp="1702781055955" textual="false" version="1.0"/>
+</session>
